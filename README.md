@@ -1,5 +1,5 @@
 # Anualidades Vencidas
-En este repositorio se agrupan las funciones para calcular anualidades vencidas al igual que un ejemplo practico para comprobar cada una de ellas. 
+En este repositorio se agrupan las funciones para calcular anualidades vencidas.
 
 ## Funciones 
 
