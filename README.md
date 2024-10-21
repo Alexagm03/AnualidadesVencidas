@@ -1,6 +1,6 @@
 # AnualidadesVencidas
 En este repositorio se presentan las funciones para calcular diferentes tipos de operaciones respecto a las anualidades vencidas. 
-## Funciones de interés simple 
+## Funciones
 
 Con el siguiente código , puede usted cargar las funciones de anualidades vencidas con valores ya dados que podrán servir de guía: 
 ```{r}
