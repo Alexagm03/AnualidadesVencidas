@@ -21,7 +21,7 @@ i=0.05
 r=i/12 
 t=60
 # Calculamos el valor futuro: 
-ValorFuturo=ValorFuturo(A=Anualida,r=Tasaperiodo,t=NumeroPagos)
+ValorFuturo=ValorFuturo(A=Anualidad,r=Tasaperiodo,t=NumeroPagos)
 #Imprimir el resultado:
 ValorFuturo
 ```
