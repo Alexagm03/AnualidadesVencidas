@@ -5,5 +5,5 @@ En este repositorio se agrupan las funciones para calcular anualidades vencidas 
 
 Con el siguiente código , puede usted cargar las funciones necesarias para los cálculos de anualidades vencidas: 
 ```{r}
-source("https://raw.githubusercontent.com/Alexagm03/claseMatesFinancieras2024/refs/heads/main/formulasInteresSimple.R")
+source("https://raw.githubusercontent.com/Alexagm03/AnualidadesVencidas/refs/heads/main/VencidasFormulas.R")
 ```
