@@ -20,7 +20,7 @@ A=1200
 r=0.0005
 t=60
 # Calculamos el valor futuro: 
-ValorFuturo=ValorFuturo(VA,r,t)
+ValorFuturo=ValorFuturo(A,r,t)
 #Imprimir el resultado:
 ValorFuturo
 ```
