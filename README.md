@@ -17,7 +17,7 @@ Se realizan los cálculos
 ```{r}
 # Creamos objetos con los valores de entrada: 
 A=1200
-r=0.0005
+r=0.005
 t=60
 # Calculamos el valor futuro: 
 ValorFuturo=ValorFuturo(A,r,t)
