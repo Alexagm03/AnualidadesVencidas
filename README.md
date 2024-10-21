@@ -18,7 +18,7 @@ Se realizan los cálculos
 # Creamos objetos con los valores de entrada: 
 A=1500
 i=0.05  
-r=i/12 
+r=0.00417 
 t=60
 # Calculamos el valor futuro: 
 ValorFuturo=ValorFuturo(A=Anualidad,r=Tasaperiodo,t=NumeroPagos)
