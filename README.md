@@ -4,5 +4,5 @@ En este repositorio se presentan las funciones para calcular diferentes tipos de
 
 Con el siguiente código , puede usted cargar las funciones de anualidades vencidas con valores ya dados que podrán servir de guía: 
 ```{r}
-source("["](https://raw.githubusercontent.com/Alexagm03/AnualidadesVencidas/refs/heads/main/AnualidadesVencidas.R))
+source("https://raw.githubusercontent.com/Alexagm03/AnualidadesVencidas/refs/heads/main/AnualidadesVencidas.R¨)
 ```
